@@ -30,9 +30,9 @@ I’m a resourceful and dedicated individual with strong **critical thinking** a
 ## 📂 Featured Projects  
 Here are some of my projects (more coming soon 🚀):  
 
-- 📘 **Course Registration System** (Java) – A system using linked lists, stacks, and queues to manage students, courses, and academic progress  
-- 🏥 **Medical Record System** (Java + MongoDB) – Centralized system for hospitals to manage patient files and treatments  
-- 🛣 **Traffic & Routing System** (Python + React + OpenStreetMap APIs) – Integration of AI and APIs for routing, weather, and road conditions  
+- 📘 **Course Registration System** *(Java)* – Student/course management with linked lists, stacks, and queues  
+- 🤖 **Chatbot using Gemini API** *(Python/JavaScript)* – An AI-powered chatbot that interacts with users and answers queries  
+- 🛣 **Traffic & Routing System** *(Python + React + OSM APIs)* – AI-powered routing, weather, and road condition integration  
 
 👉 Check out my repositories [here](https://github.com/Shanaldo)  
 
