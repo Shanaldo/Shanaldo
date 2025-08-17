@@ -1,11 +1,11 @@
-# Hi there 👋, I'm Shanaldo Carty  
+<h1 align="center">👋 Hi there, I'm <span style="color:#4CAF50">Shanaldo Carty</span></h1>
 
-🎓 **Computer Science Student** at the **University of Technology, Jamaica**  
-💻 Passionate about problem-solving, software development, and continuous learning  
-📊 Currently pursuing my **BSc in Computer Science (GPA: 3.6 / 4.0)**  
-🌱 Exploring **Python, Java, and C/C++** while building real-world projects  
-✨ Interested in software engineering, IT systems, and applied AI  
-
+<p align="center">
+🎓 <b>Computer Science Student</b> at the <i>University of Technology, Jamaica</i> (Class of 2026)<br>
+💻 Passionate about problem-solving, software development, and continuous learning<br>
+🌱 Exploring <b>Python, Java, C & C++</b> while building real-world projects<br>
+✨ Aspiring <b>Software Engineer</b> with interests in <b>Systems Design, Databases, and Applied AI</b>  
+</p>
 ---
 
 ## 🚀 About Me  
