@@ -35,7 +35,7 @@ Here are some of my projects (more coming soon 🚀):
 - 🏥 **Medical Record System** (Java + MongoDB) – Centralized system for hospitals to manage patient files and treatments  
 - 🛣 **Traffic & Routing System** (Python + React + OpenStreetMap APIs) – Integration of AI and APIs for routing, weather, and road conditions  
 
-👉 Check out my repositories [here](https://github.com/yourusername)  
+👉 Check out my repositories [here](https://github.com/Shanaldo)  
 
 ---
 
@@ -49,8 +49,8 @@ Here are some of my projects (more coming soon 🚀):
 ## 📫 Let’s Connect  
 
 - 📧 Email: **shanaldoccarty@gmail.com**  
-- 📍 Location: **May Pen, Jamaica**  
-- 💼 LinkedIn: *()*  
+- 📍 Location: **Clarendon, Jamaica**  
+- 💼 LinkedIn: *Pending*  
 
 ---
 
