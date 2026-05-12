@@ -21,7 +21,7 @@ I’m a resourceful and dedicated individual with strong **critical thinking** a
 
 ---
 
-## Languages and Tools
+## Tech Stack and Tools
 
 <p align="center">
 
