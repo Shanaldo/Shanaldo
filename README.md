@@ -67,8 +67,6 @@ Here are some of my projects (more coming soon 🚀):
 - 🤖 **Chatbot using Gemini API** *(Python/JavaScript)* – An AI-powered chatbot that interacts with users and answers queries  
 - 🛣 **Traffic & Routing System** *(Python + React + OSM APIs)* – AI-powered routing, weather, and road condition integration  
 
-👉 Check out my repositories [here](https://github.com/Shanaldo)  
-
 ---
 
 ## 📊 GitHub Stats  
