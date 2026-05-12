@@ -19,41 +19,58 @@ I’m a resourceful and dedicated individual with strong **critical thinking** a
 
 ## 🧑‍💻 Skills  
 
-## 🛠️ Tech Stack & Tools
+# 👨‍💻 Skills
+
+---
+
+## Languages and Tools
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=c" height="55" />
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=cpp" height="55" />
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=css" height="55" />
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=html" height="55" />
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=java" height="55" />
 
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="55" />
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=postgres" height="55" />
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python" height="55" />
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=react" height="55" />
 
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+---
 
-<br><br>
+### Other Skills
+- Data Entry
+- Documentation
+- IT Support
+- Teaching IT Concepts
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+### Soft Skills
+- Leadership
+- Teamwork
+- Communication
+- Time Management
+- Customer Service
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+---
 
-<img src="https://img.shields.io/badge/Linux_WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+# 📊 GitHub Stats
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 
 </p>
 **Other Skills**: Data Entry, Documentation, IT Support, Teaching IT Concepts  
