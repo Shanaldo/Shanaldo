@@ -59,7 +59,6 @@ I’m a resourceful and dedicated individual with strong **critical thinking** a
 - Customer Service
 
 ---
----
 
 ## 📂 Featured Projects  
 Here are some of my projects (more coming soon 🚀):  
