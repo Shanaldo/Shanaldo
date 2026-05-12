@@ -46,33 +46,6 @@ I’m a resourceful and dedicated individual with strong **critical thinking** a
 <img src="https://skillicons.dev/icons?i=react" height="55" />
 
 </p>
-
----
-
-### Other Skills
-- Data Entry
-- Documentation
-- IT Support
-- Teaching IT Concepts
-
-### Soft Skills
-- Leadership
-- Teamwork
-- Communication
-- Time Management
-- Customer Service
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-
-</p>
 **Other Skills**: Data Entry, Documentation, IT Support, Teaching IT Concepts  
 **Soft Skills**: Leadership, Teamwork, Communication, Time Management, Customer Service  
 
