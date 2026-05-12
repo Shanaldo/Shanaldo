@@ -84,4 +84,11 @@ Here are some of my projects (more coming soon 🚀):
 
 ---
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/Shanaldo/Shanaldo/blob/output/github-contribution-grid-snake-dark.svg" />
+</p> 
+
+---
 ⚡ *“Devoted and driven to exceed goals, with a positive attitude and passion for technology.”*  
