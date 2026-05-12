@@ -19,8 +19,6 @@ I’m a resourceful and dedicated individual with strong **critical thinking** a
 
 ## 🧑‍💻 Skills  
 
-# 👨‍💻 Skills
-
 ---
 
 ## Languages and Tools
@@ -45,10 +43,22 @@ I’m a resourceful and dedicated individual with strong **critical thinking** a
 
 <img src="https://skillicons.dev/icons?i=react" height="55" />
 
-</p>
-**Other Skills**: Data Entry, Documentation, IT Support, Teaching IT Concepts  
-**Soft Skills**: Leadership, Teamwork, Communication, Time Management, Customer Service  
+---
 
+### Other Skills
+- Data Entry
+- Documentation
+- IT Support
+- Teaching IT Concepts
+
+### Soft Skills
+- Leadership
+- Teamwork
+- Communication
+- Time Management
+- Customer Service
+
+---
 ---
 
 ## 📂 Featured Projects  
