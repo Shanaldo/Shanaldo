@@ -17,10 +17,6 @@ I’m a resourceful and dedicated individual with strong **critical thinking** a
 
 ---
 
-## 🧑‍💻 Skills  
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
